@@ -20,11 +20,6 @@ bold and italic: **_bold and italic_**
 
 ## links
 [google](https://www.google.com)
-[goto Link1](link1)
-[goto Link2](2)
-
-[link1]: This is Link1
-[2]: This is Link2
 
 ## images
 Inline-style: 
@@ -85,6 +80,6 @@ ___
 
 Underscores
 
-## reference
+## References
 * [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [list of markdowns](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
