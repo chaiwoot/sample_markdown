@@ -7,11 +7,7 @@ bold and italic: **_bold and italic_**
 
 ## ordered list
 1. item 1
-...indented paragraph
-
-...indented paragraph..
 2. item 2
-...indented paragraph..
 
 ## unordered list
 * item 1
