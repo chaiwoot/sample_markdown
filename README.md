@@ -2,7 +2,9 @@
 
 ## italic and bold
 italic: *italic*, _italic_
+
 bold: **bold**, __bold__
+
 bold and italic: **_bold and italic_**
 
 ## ordered list
